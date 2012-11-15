@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DeadliestWarrior' target in the 'DeadliestWarrior' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
